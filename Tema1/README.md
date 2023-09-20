@@ -16,7 +16,7 @@ Prueba para Desarrollo de Aplicaciones Web
 # Tema 1
 En este se verán los **conceptos básicos**
 
-|[Piplup](assets/amor.jpg)
+![Piplup](amor.jpg)
 
 Se verán los siguientes apartados
 
@@ -33,7 +33,7 @@ JavaScript |  James | 1995
 Java |  James Gospling | 1995
 Python | Fan de MonthyPython | 22222006
 
-|[Foquitaa](assets/descarga2.jpg)
+![Foquitaa](descarga2.jpg)
 
 JavaScript 
 ```java
@@ -41,7 +41,7 @@ import System.out.println;
 void main (String args[]){
 println('Hola');}
 ```
-|[Focquita](assets/descarga.jpg)
+![Focquita](descarga.jpg)
 >**AVISO**: Esto debe escribirse en un terminal
 >
 >Lo dicho, así es
@@ -49,4 +49,4 @@ println('Hola');}
 >var numero=5.7
 >
 >```
-|[Foquitaa](assets/descarga4.jpg)
+![Foquitaa](descarga4.jpg)
