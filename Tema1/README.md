@@ -12,10 +12,14 @@ Prueba para Desarrollo de Aplicaciones Web
 - [Tema 7](Tema1/README.md)
 - [Tema 8](Tema1/README.md)
 - [Tema 9](Tema1/README.md)
+- 
 # Tema 1
 En este se verán los **conceptos básicos**
+
 |[Piplup](assets/amor.jpg)
+
 Se verán los siguientes apartados
+
 Lista de numeros
 1. f
 2. e
