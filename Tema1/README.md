@@ -13,3 +13,36 @@ Prueba para Desarrollo de Aplicaciones Web
 - [Tema 8](Tema1/README.md)
 - [Tema 9](Tema1/README.md)
 # Tema 1
+En este se verán los **conceptos básicos**
+|[Piplup](assets/amor.jpg)
+Se verán los siguientes apartados
+Lista de numeros
+1. f
+2. e
+3. e
+4. f
+5. t
+---
+Lenguaje   |   Inventor   |   Año
+---------|----------|---------
+JavaScript |  James | 1995
+Java |  James Gospling | 1995
+Python | Fan de MonthyPython | 22222006
+
+|[Foquitaa](assets/descarga2.jpg)
+
+JavaScript 
+```java
+import System.out.println;
+void main (String args[]){
+println('Hola');}
+```
+|[Focquita](assets/descarga.jpg)
+>**AVISO**: Esto debe escribirse en un terminal
+>
+>Lo dicho, así es
+>```javascript
+>var numero=5.7
+>
+>```
+|[Foquitaa](assets/descarga4.jpg)
